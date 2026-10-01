@@ -44,3 +44,7 @@ The Hero_Mission table is the link table.
 
 --------------------------------------
 
+# Part 2.
+## 2.3
+❓ Question 4. Why read the URL from an environment variable instead of writing it in database.py ?
+Give two reasons.
